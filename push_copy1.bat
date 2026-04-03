@@ -12,7 +12,7 @@ echo Готово!
 
 echo.
 echo Отправляем на GitHub...
-git push --force
+git push --force git@github.com:Kataktok/Proxy.git
 echo Готово!
 
 echo.
