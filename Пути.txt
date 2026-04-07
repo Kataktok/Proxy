@@ -1,1 +1,3 @@
 https://locklance.lol/8RXA4Os50T1eBVv
+
+http://127.0.0.1:3072/?hostname=127.0.0.1&port=3057&secret=8a50706ebacc1a63#/settings
