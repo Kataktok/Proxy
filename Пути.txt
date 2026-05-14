@@ -5,3 +5,7 @@ http://127.0.0.1:3072/?hostname=127.0.0.1&port=3057&secret=8a50706ebacc1a63#/set
 https://raw.githubusercontent.com/Ilyacom4ik/free-v2ray-2026/refs/heads/main/subscriptions/FreeCFGHub1.txt
 
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
+
+vless://32638004-4f31-420a-8e53-66369113bd57@45.8.146.18:33097?type=tcp&encryption=none&security=reality&pbk=0u8XEtSMIjThDKtqwq0Rcp29HqfXHyjVHc3u7rqjCBk&fp=chrome&sni=www.ui.com&sid=d5038acdd9122f&spx=%2F&flow=xtls-rprx-vision#KT3%20%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD
+
+vless://c44bc31b-79f1-479f-8bd1-3cda3dc74df6@109.248.203.244:51123?type=tcp&encryption=none&security=reality&pbk=XxOrINj0l2Vrf-zWzAEh0a92BLJTBHa_wMjTSNiOsy8&fp=chrome&sni=www.mathedu.ru&sid=50&spx=%2F&flow=xtls-rprx-vision#KT3%20%D1%82%D0%BB%D1%84%20%20%D0%9C%D0%A1%D0%9A-%D0%A1%D0%A8%D0%90
